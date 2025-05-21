@@ -1,0 +1,2 @@
+# minypopart
+with Idris * Jimmy
